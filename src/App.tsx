@@ -40,9 +40,9 @@ function App() {
           <p>Your questions, answered</p>
           <ul>
             <li>
-              <a href="https://vite.dev/" target="_blank">
-                <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
+              <a href="https://www.propelleraero.com/hardware-integrations/dirtmate/" target="_blank">
+                <img className="button-icon" src={viteLogo} alt="" />
+                propellaero.com
               </a>
             </li>
             <li>
